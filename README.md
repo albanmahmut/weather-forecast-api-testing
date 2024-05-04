@@ -21,7 +21,7 @@ weather-forecast-api-testing-project
 │   ├───main
 │   │   └───java
 │   │       └───com
-│   │           └───yourcompany
+│   │           └───com.weather
 │   │               └───weatherapi
 │   │                   ├───config
 │   │                   ├───model
@@ -31,7 +31,7 @@ weather-forecast-api-testing-project
 │   └───test
 │       ├───java
 │       │   └───com
-│       │       └───yourcompany
+│       │       └───com.weather
 │       │           └───weatherapi
 │       │               ├───tests
 │       │               └───utils
